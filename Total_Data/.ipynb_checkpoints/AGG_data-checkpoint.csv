@@ -1,89 +1,104 @@
 Date,Open,High,Low,Close,Adj Close,Volume
-"Apr 1, 2025",91.43,91.56,91.42,91.56,91.24,226444200
-"Apr 1, 2025",0.32 Dividend,0.32 Dividend,0.32 Dividend,0.32 Dividend,0.32 Dividend,0.32 Dividend
-"Mar 1, 2025",91.45,91.74,91.44,91.73,91.12,278655900
-"Mar 3, 2025",0.29 Dividend,0.29 Dividend,0.29 Dividend,0.29 Dividend,0.29 Dividend,0.29 Dividend
-"Feb 1, 2025",91.45,91.73,91.44,91.72,90.79,152321000
-"Feb 3, 2025",0.33 Dividend,0.33 Dividend,0.33 Dividend,0.33 Dividend,0.33 Dividend,0.33 Dividend
-"Jan 1, 2025",91.45,91.76,91.44,91.75,90.82,157312600
-"Dec 19, 2024",0.38 Dividend,0.38 Dividend,0.38 Dividend,0.38 Dividend,0.38 Dividend,0.38 Dividend
-"Dec 1, 2024",91.47,91.67,91.29,91.43,89.79,155048200
-"Dec 2, 2024",0.34 Dividend,0.34 Dividend,0.34 Dividend,0.34 Dividend,0.34 Dividend,0.34 Dividend
-"Nov 1, 2024",91.48,91.80,91.47,91.78,89.78,150196500
-"Nov 1, 2024",0.36 Dividend,0.36 Dividend,0.36 Dividend,0.36 Dividend,0.36 Dividend,0.36 Dividend
-"Oct 1, 2024",91.46,91.80,91.45,91.80,89.44,140940000
-"Oct 1, 2024",0.37 Dividend,0.37 Dividend,0.37 Dividend,0.37 Dividend,0.37 Dividend,0.37 Dividend
-"Sep 1, 2024",91.77,91.82,91.44,91.81,89.07,156932000
-"Sep 3, 2024",0.40 Dividend,0.40 Dividend,0.40 Dividend,0.40 Dividend,0.40 Dividend,0.40 Dividend
-"Aug 1, 2024",91.41,91.83,91.41,91.82,88.68,192025600
-"Aug 1, 2024",0.40 Dividend,0.40 Dividend,0.40 Dividend,0.40 Dividend,0.40 Dividend,0.40 Dividend
-"Jul 1, 2024",91.42,91.80,91.41,91.80,88.29,138514400
-"Jul 1, 2024",0.39 Dividend,0.39 Dividend,0.39 Dividend,0.39 Dividend,0.39 Dividend,0.39 Dividend
-"Jun 1, 2024",91.45,91.79,91.43,91.78,87.88,117206200
-"Jun 3, 2024",0.41 Dividend,0.41 Dividend,0.41 Dividend,0.41 Dividend,0.41 Dividend,0.41 Dividend
-"May 1, 2024",91.43,91.83,91.42,91.82,87.54,139772400
-"May 1, 2024",0.39 Dividend,0.39 Dividend,0.39 Dividend,0.39 Dividend,0.39 Dividend,0.39 Dividend
-"Apr 1, 2024",91.42,91.80,91.42,91.79,87.13,165486700
-"Apr 1, 2024",0.41 Dividend,0.41 Dividend,0.41 Dividend,0.41 Dividend,0.41 Dividend,0.41 Dividend
-"Mar 1, 2024",91.44,91.81,91.44,91.80,86.80,121886400
-"Mar 1, 2024",0.36 Dividend,0.36 Dividend,0.36 Dividend,0.36 Dividend,0.36 Dividend,0.36 Dividend
-"Feb 1, 2024",91.42,91.79,91.42,91.78,86.40,136273300
-"Feb 1, 2024",0.41 Dividend,0.41 Dividend,0.41 Dividend,0.41 Dividend,0.41 Dividend,0.41 Dividend
-"Jan 1, 2024",91.40,91.79,91.40,91.78,86.40,156412100
-"Dec 18, 2023",0.42 Dividend,0.42 Dividend,0.42 Dividend,0.42 Dividend,0.42 Dividend,0.42 Dividend
-"Dec 1, 2023",91.45,91.63,91.21,91.39,85.25,160903300
-"Dec 1, 2023",0.42 Dividend,0.42 Dividend,0.42 Dividend,0.42 Dividend,0.42 Dividend,0.42 Dividend
-"Nov 1, 2023",91.44,91.85,91.43,91.84,85.29,229526700
-"Nov 1, 2023",0.41 Dividend,0.41 Dividend,0.41 Dividend,0.41 Dividend,0.41 Dividend,0.41 Dividend
-"Oct 1, 2023",91.45,91.83,91.44,91.82,84.90,270208000
-"Oct 2, 2023",0.39 Dividend,0.39 Dividend,0.39 Dividend,0.39 Dividend,0.39 Dividend,0.39 Dividend
-"Sep 1, 2023",91.47,91.83,91.46,91.82,84.53,161819200
-"Sep 1, 2023",0.41 Dividend,0.41 Dividend,0.41 Dividend,0.41 Dividend,0.41 Dividend,0.41 Dividend
-"Aug 1, 2023",91.43,91.86,91.42,91.86,84.20,151286000
-"Aug 1, 2023",0.39 Dividend,0.39 Dividend,0.39 Dividend,0.39 Dividend,0.39 Dividend,0.39 Dividend
-"Jul 1, 2023",91.46,91.81,91.46,91.80,83.80,109308900
-"Jul 3, 2023",0.37 Dividend,0.37 Dividend,0.37 Dividend,0.37 Dividend,0.37 Dividend,0.37 Dividend
-"Jun 1, 2023",91.45,91.83,91.44,91.82,83.48,139963000
-"Jun 1, 2023",0.37 Dividend,0.37 Dividend,0.37 Dividend,0.37 Dividend,0.37 Dividend,0.37 Dividend
-"May 1, 2023",91.44,91.78,91.41,91.77,83.12,146814900
-"May 1, 2023",0.35 Dividend,0.35 Dividend,0.35 Dividend,0.35 Dividend,0.35 Dividend,0.35 Dividend
-"Apr 1, 2023",91.48,91.79,91.47,91.78,82.79,134371500
-"Apr 3, 2023",0.37 Dividend,0.37 Dividend,0.37 Dividend,0.37 Dividend,0.37 Dividend,0.37 Dividend
-"Mar 1, 2023",91.47,91.85,91.46,91.82,82.60,228427800
-"Mar 1, 2023",0.26 Dividend,0.26 Dividend,0.26 Dividend,0.26 Dividend,0.26 Dividend,0.26 Dividend
-"Feb 1, 2023",91.42,91.71,91.40,91.71,82.19,145839100
-"Feb 1, 2023",0.34 Dividend,0.34 Dividend,0.34 Dividend,0.34 Dividend,0.34 Dividend,0.34 Dividend
-"Jan 1, 2023",91.48,91.74,91.47,91.73,82.21,139453300
-"Dec 19, 2022",0.27 Dividend,0.27 Dividend,0.27 Dividend,0.27 Dividend,0.27 Dividend,0.27 Dividend
-"Dec 1, 2022",91.43,91.60,91.33,91.47,81.50,142210000
-"Dec 1, 2022",0.26 Dividend,0.26 Dividend,0.26 Dividend,0.26 Dividend,0.26 Dividend,0.26 Dividend
-"Nov 1, 2022",91.41,91.67,91.39,91.67,81.50,125073900
-"Nov 1, 2022",0.21 Dividend,0.21 Dividend,0.21 Dividend,0.21 Dividend,0.21 Dividend,0.21 Dividend
-"Oct 1, 2022",91.45,91.61,91.42,91.59,81.29,133207400
-"Oct 3, 2022",0.16 Dividend,0.16 Dividend,0.16 Dividend,0.16 Dividend,0.16 Dividend,0.16 Dividend
-"Sep 1, 2022",91.43,91.60,91.42,91.60,81.17,133691600
-"Sep 1, 2022",0.14 Dividend,0.14 Dividend,0.14 Dividend,0.14 Dividend,0.14 Dividend,0.14 Dividend
-"Aug 1, 2022",91.37,91.55,91.37,91.55,81.04,138793300
-"Aug 1, 2022",0.10 Dividend,0.10 Dividend,0.10 Dividend,0.10 Dividend,0.10 Dividend,0.10 Dividend
-"Jul 1, 2022",91.43,91.48,91.40,91.47,80.93,138228900
-"Jul 1, 2022",0.05 Dividend,0.05 Dividend,0.05 Dividend,0.05 Dividend,0.05 Dividend,0.05 Dividend
-"Jun 1, 2022",91.44,91.49,91.41,91.49,80.92,127557600
-"Jun 1, 2022",0.03 Dividend,0.03 Dividend,0.03 Dividend,0.03 Dividend,0.03 Dividend,0.03 Dividend
-"May 1, 2022",91.44,91.48,91.42,91.45,80.88,123245200
-"Apr 1, 2022",91.42,91.44,91.41,91.42,80.85,76053100
-"Mar 1, 2022",0.02 Dividend,0.02 Dividend,0.02 Dividend,0.02 Dividend,0.02 Dividend,0.02 Dividend
-"Mar 1, 2022",91.42,91.43,91.40,91.43,80.84,90882500
-"Feb 1, 2022",91.41,91.43,91.40,91.41,80.83,90521300
-"Jan 1, 2022",91.43,91.43,91.41,91.43,80.84,74430900
-"Dec 1, 2021",91.44,91.44,91.42,91.43,80.84,25722900
-"Nov 1, 2021",91.44,91.45,91.43,91.43,80.84,21169800
-"Oct 1, 2021",91.46,91.46,91.43,91.45,80.86,18012100
-"Sep 1, 2021",91.46,91.47,91.44,91.46,80.87,31234700
-"Aug 1, 2021",91.46,91.47,91.45,91.45,80.86,20429900
-"Jul 1, 2021",91.47,91.48,91.46,91.46,80.87,19782500
-"Jun 1, 2021",91.48,91.49,91.47,91.47,80.88,19359400
-"May 1, 2021",91.49,91.50,91.48,91.49,80.90,26742000
-"Apr 1, 2021",91.51,91.51,91.49,91.50,80.91,25681800
-"Mar 1, 2021",91.51,91.51,91.50,91.50,80.91,24587200
-"Feb 1, 2021",91.52,91.53,91.50,91.51,80.91,22015300
-"Jan 1, 2021",91.52,91.52,91.51,91.52,80.92,37019000
+"Apr 1, 2025",98.81,100.55,96.15,97.04,96.72,112931000
+"Apr 1, 2025",0.33 Dividend,0.33 Dividend,0.33 Dividend,0.33 Dividend,0.33 Dividend,0.33 Dividend
+"Mar 1, 2025",98.66,99.40,98.01,98.92,98.29,173294600
+"Mar 3, 2025",0.30 Dividend,0.30 Dividend,0.30 Dividend,0.30 Dividend,0.30 Dividend,0.30 Dividend
+"Feb 1, 2025",97.34,99.29,96.61,99.25,98.29,162617500
+"Feb 3, 2025",0.32 Dividend,0.32 Dividend,0.32 Dividend,0.32 Dividend,0.32 Dividend,0.32 Dividend
+"Jan 1, 2025",97.07,97.73,95.74,97.40,96.46,153162900
+"Dec 18, 2024",0.32 Dividend,0.32 Dividend,0.32 Dividend,0.32 Dividend,0.32 Dividend,0.32 Dividend
+"Dec 1, 2024",99.39,99.60,96.47,96.90,95.36,207807600
+"Dec 2, 2024",0.31 Dividend,0.31 Dividend,0.31 Dividend,0.31 Dividend,0.31 Dividend,0.31 Dividend
+"Nov 1, 2024",98.29,99.22,97.26,99.20,97.31,178516100
+"Nov 1, 2024",0.31 Dividend,0.31 Dividend,0.31 Dividend,0.31 Dividend,0.31 Dividend,0.31 Dividend
+"Oct 1, 2024",101.27,101.45,98.09,98.42,96.26,188422600
+"Oct 1, 2024",0.31 Dividend,0.31 Dividend,0.31 Dividend,0.31 Dividend,0.31 Dividend,0.31 Dividend
+"Sep 1, 2024",100.49,102.04,100.23,101.27,98.73,151200500
+"Sep 3, 2024",0.31 Dividend,0.31 Dividend,0.31 Dividend,0.31 Dividend,0.31 Dividend,0.31 Dividend
+"Aug 1, 2024",99.01,100.92,99.01,100.25,97.44,162159500
+"Aug 1, 2024",0.30 Dividend,0.30 Dividend,0.30 Dividend,0.30 Dividend,0.30 Dividend,0.30 Dividend
+"Jul 1, 2024",96.43,99.12,96.22,99.11,96.03,156329800
+"Jul 1, 2024",0.30 Dividend,0.30 Dividend,0.30 Dividend,0.30 Dividend,0.30 Dividend,0.30 Dividend
+"Jun 1, 2024",96.40,98.05,96.38,97.07,93.76,116832100
+"Jun 3, 2024",0.30 Dividend,0.30 Dividend,0.30 Dividend,0.30 Dividend,0.30 Dividend,0.30 Dividend
+"May 1, 2024",95.20,97.28,94.99,96.52,92.94,142883000
+"May 1, 2024",0.30 Dividend,0.30 Dividend,0.30 Dividend,0.30 Dividend,0.30 Dividend,0.30 Dividend
+"Apr 1, 2024",97.32,97.34,94.85,95.23,91.43,225145700
+"Apr 1, 2024",0.29 Dividend,0.29 Dividend,0.29 Dividend,0.29 Dividend,0.29 Dividend,0.29 Dividend
+"Mar 1, 2024",96.99,98.41,96.81,97.94,93.75,171183600
+"Mar 1, 2024",0.29 Dividend,0.29 Dividend,0.29 Dividend,0.29 Dividend,0.29 Dividend,0.29 Dividend
+"Feb 1, 2024",99.20,99.57,96.75,97.35,92.91,183195100
+"Feb 1, 2024",0.29 Dividend,0.29 Dividend,0.29 Dividend,0.29 Dividend,0.29 Dividend,0.29 Dividend
+"Jan 1, 2024",98.84,99.36,97.67,99.10,94.58,189449700
+"Dec 14, 2023",0.28 Dividend,0.28 Dividend,0.28 Dividend,0.28 Dividend,0.28 Dividend,0.28 Dividend
+"Dec 1, 2023",96.00,99.70,95.97,99.25,94.19,200149800
+"Dec 1, 2023",0.27 Dividend,0.27 Dividend,0.27 Dividend,0.27 Dividend,0.27 Dividend,0.27 Dividend
+"Nov 1, 2023",92.23,96.67,92.23,96.26,91.08,189882200
+"Nov 1, 2023",0.28 Dividend,0.28 Dividend,0.28 Dividend,0.28 Dividend,0.28 Dividend,0.28 Dividend
+"Oct 1, 2023",93.43,94.05,91.58,92.31,87.10,217450300
+"Oct 2, 2023",0.26 Dividend,0.26 Dividend,0.26 Dividend,0.26 Dividend,0.26 Dividend,0.26 Dividend
+"Sep 1, 2023",96.54,96.57,93.53,94.04,88.49,156122000
+"Sep 1, 2023",0.26 Dividend,0.26 Dividend,0.26 Dividend,0.26 Dividend,0.26 Dividend,0.26 Dividend
+"Aug 1, 2023",97.01,97.22,95.04,96.80,90.84,189197000
+"Aug 1, 2023",0.27 Dividend,0.27 Dividend,0.27 Dividend,0.27 Dividend,0.27 Dividend,0.27 Dividend
+"Jul 1, 2023",97.82,98.48,96.28,97.68,91.43,147772000
+"Jul 3, 2023",0.26 Dividend,0.26 Dividend,0.26 Dividend,0.26 Dividend,0.26 Dividend,0.26 Dividend
+"Jun 1, 2023",98.60,98.80,97.45,97.95,91.44,154341400
+"Jun 1, 2023",0.26 Dividend,0.26 Dividend,0.26 Dividend,0.26 Dividend,0.26 Dividend,0.26 Dividend
+"May 1, 2023",99.35,100.42,97.24,98.57,91.79,147935400
+"May 1, 2023",0.25 Dividend,0.25 Dividend,0.25 Dividend,0.25 Dividend,0.25 Dividend,0.25 Dividend
+"Apr 1, 2023",99.28,100.98,98.71,99.96,92.85,102268700
+"Apr 3, 2023",0.25 Dividend,0.25 Dividend,0.25 Dividend,0.25 Dividend,0.25 Dividend,0.25 Dividend
+"Mar 1, 2023",96.83,100.49,96.11,99.64,92.33,178250900
+"Mar 1, 2023",0.23 Dividend,0.23 Dividend,0.23 Dividend,0.23 Dividend,0.23 Dividend,0.23 Dividend
+"Feb 1, 2023",100.19,101.15,96.93,97.31,89.95,136172900
+"Feb 1, 2023",0.25 Dividend,0.25 Dividend,0.25 Dividend,0.25 Dividend,0.25 Dividend,0.25 Dividend
+"Jan 1, 2023",97.97,100.88,97.37,100.22,92.64,163155500
+"Dec 15, 2022",0.23 Dividend,0.23 Dividend,0.23 Dividend,0.23 Dividend,0.23 Dividend,0.23 Dividend
+"Dec 1, 2022",98.30,100.18,96.97,96.99,89.25,182228100
+"Dec 1, 2022",0.23 Dividend,0.23 Dividend,0.23 Dividend,0.23 Dividend,0.23 Dividend,0.23 Dividend
+"Nov 1, 2022",95.25,98.32,93.93,98.29,90.24,151586500
+"Nov 1, 2022",0.22 Dividend,0.22 Dividend,0.22 Dividend,0.22 Dividend,0.22 Dividend,0.22 Dividend
+"Oct 1, 2022",96.89,97.55,93.20,94.90,86.94,156647200
+"Oct 3, 2022",0.21 Dividend,0.21 Dividend,0.21 Dividend,0.21 Dividend,0.21 Dividend,0.21 Dividend
+"Sep 1, 2022",100.07,100.67,95.38,96.34,88.08,167483600
+"Sep 1, 2022",0.20 Dividend,0.20 Dividend,0.20 Dividend,0.20 Dividend,0.20 Dividend,0.20 Dividend
+"Aug 1, 2022",103.99,104.35,100.64,100.71,91.89,137148700
+"Aug 1, 2022",0.20 Dividend,0.20 Dividend,0.20 Dividend,0.20 Dividend,0.20 Dividend,0.20 Dividend
+"Jul 1, 2022",102.21,104.40,101.16,104.07,94.79,129139000
+"Jul 1, 2022",0.19 Dividend,0.19 Dividend,0.19 Dividend,0.19 Dividend,0.19 Dividend,0.19 Dividend
+"Jun 1, 2022",103.39,103.53,98.86,101.68,92.44,164197600
+"Jun 1, 2022",0.19 Dividend,0.19 Dividend,0.19 Dividend,0.19 Dividend,0.19 Dividend,0.19 Dividend
+"May 1, 2022",102.32,104.31,101.48,103.47,93.90,209531300
+"May 2, 2022",0.18 Dividend,0.18 Dividend,0.18 Dividend,0.18 Dividend,0.18 Dividend,0.18 Dividend
+"Apr 1, 2022",106.35,106.95,102.67,102.87,93.22,186590100
+"Apr 1, 2022",0.16 Dividend,0.16 Dividend,0.16 Dividend,0.16 Dividend,0.16 Dividend,0.16 Dividend
+"Mar 1, 2022",110.60,111.17,105.98,107.10,96.91,263297700
+"Mar 1, 2022",0.16 Dividend,0.16 Dividend,0.16 Dividend,0.16 Dividend,0.16 Dividend,0.16 Dividend
+"Feb 1, 2022",111.66,111.97,109.10,110.36,99.72,182615900
+"Feb 1, 2022",0.16 Dividend,0.16 Dividend,0.16 Dividend,0.16 Dividend,0.16 Dividend,0.16 Dividend
+"Jan 1, 2022",113.67,113.68,111.36,111.80,101.02,177044400
+"Dec 16, 2021",0.12 Dividend,0.12 Dividend,0.12 Dividend,0.12 Dividend,0.12 Dividend,0.12 Dividend
+"Dec 1, 2021",114.27,115.24,113.81,114.08,102.83,168251800
+"Dec 1, 2021",0.16 Dividend,0.16 Dividend,0.16 Dividend,0.16 Dividend,0.16 Dividend,0.16 Dividend
+"Nov 1, 2021",114.16,115.50,113.39,114.77,103.29,143895100
+"Nov 1, 2021",0.18 Dividend,0.18 Dividend,0.18 Dividend,0.18 Dividend,0.18 Dividend,0.18 Dividend
+"Oct 1, 2021",114.82,115.06,113.84,114.64,103.01,116295700
+"Oct 1, 2021",0.18 Dividend,0.18 Dividend,0.18 Dividend,0.18 Dividend,0.18 Dividend,0.18 Dividend
+"Sep 1, 2021",116.02,116.38,114.69,114.83,103.03,105451600
+"Sep 1, 2021",0.17 Dividend,0.17 Dividend,0.17 Dividend,0.17 Dividend,0.17 Dividend,0.17 Dividend
+"Aug 1, 2021",116.36,116.83,115.34,116.06,103.99,109572100
+"Aug 2, 2021",0.17 Dividend,0.17 Dividend,0.17 Dividend,0.17 Dividend,0.17 Dividend,0.17 Dividend
+"Jul 1, 2021",115.15,116.82,115.01,116.46,104.20,125908500
+"Jul 1, 2021",0.16 Dividend,0.16 Dividend,0.16 Dividend,0.16 Dividend,0.16 Dividend,0.16 Dividend
+"Jun 1, 2021",114.36,115.45,113.97,115.33,103.04,124146500
+"Jun 1, 2021",0.17 Dividend,0.17 Dividend,0.17 Dividend,0.17 Dividend,0.17 Dividend,0.17 Dividend
+"May 1, 2021",114.40,114.97,113.78,114.55,102.19,108440300
+"May 3, 2021",0.17 Dividend,0.17 Dividend,0.17 Dividend,0.17 Dividend,0.17 Dividend,0.17 Dividend
+"Apr 1, 2021",113.93,115.13,113.69,114.49,101.98,113892400
+"Apr 1, 2021",0.17 Dividend,0.17 Dividend,0.17 Dividend,0.17 Dividend,0.17 Dividend,0.17 Dividend
+"Mar 1, 2021",114.97,115.59,113.20,113.83,101.23,152163600
+"Mar 1, 2021",0.19 Dividend,0.19 Dividend,0.19 Dividend,0.19 Dividend,0.19 Dividend,0.19 Dividend
+"Feb 1, 2021",117.20,117.26,114.20,115.34,102.40,113958700
+"Feb 1, 2021",0.19 Dividend,0.19 Dividend,0.19 Dividend,0.19 Dividend,0.19 Dividend,0.19 Dividend
+"Jan 1, 2021",118.08,118.14,116.56,117.31,104.15,129574500
